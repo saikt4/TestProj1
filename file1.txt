@@ -1,4 +1,4 @@
-This is file1.txt
+This is file1.txt   //pony
 
 1-added
 
@@ -6,6 +6,8 @@ This is file1.txt
 yellow
 red
 blue
+indigo
 green
 orange
 violet
+Pony
