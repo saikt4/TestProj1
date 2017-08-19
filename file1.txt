@@ -1,3 +1,10 @@
 This is file1.txt
 
 1-added
+
+//added below from b1-unicorn
+red
+blue
+green
+orange
+violet
