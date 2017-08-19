@@ -1,10 +1,12 @@
-This is file1.txt
+This is file1.txt   //pony
 
 1-added
 
 //added below from b1-unicorn
 red
 blue
+indigo
 green
 orange
 violet
+Pony
