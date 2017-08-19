@@ -3,9 +3,11 @@ This is file1.txt   //pony
 1-added
 
 //added below from b1-unicorn
+yellow
 red
 blue
 indigo2
+indigo3 //updated from master branch
 green
 orange
 violet
