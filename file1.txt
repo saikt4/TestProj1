@@ -6,6 +6,7 @@ This is file1.txt   //pony
 yellow
 red
 blue
+indigo2
 indigo3 //updated from master branch
 green
 orange
