@@ -5,7 +5,7 @@ This is file1.txt   //pony
 //added below from b1-unicorn
 red
 blue
-indigo
+indigo2
 green
 orange
 violet
