@@ -12,3 +12,6 @@ green
 orange
 violet
 Pony
+
+//adding some musicals
+guitar
